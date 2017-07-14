@@ -1,5 +1,7 @@
 # study
  
+최종리뷰 2017-07-14 : https://github.com/ClojureBridgeSeoul/study2017-1/blob/master/review.md
+
 ## 스터디 목표
 
 - 클로저 시작하기 책 끝내기
